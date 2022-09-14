@@ -5,5 +5,6 @@ public class About {
         System.out.println("about java lan 3");
         System.out.println("about java lan 4");
         System.out.println("about java lan 5");
+        System.out.println("about java lan 6");
     }
 }
