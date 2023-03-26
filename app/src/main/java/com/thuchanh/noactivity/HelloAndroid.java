@@ -54,6 +54,7 @@ public class HelloAndroid extends AppCompatActivity {
         displaySubdir.setText(Arrays.toString(assetsIWant));
 
         // đang tập dùng git
+        // dùng git sướng vl
 
 
 
