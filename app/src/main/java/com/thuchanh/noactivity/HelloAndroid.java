@@ -53,6 +53,8 @@ public class HelloAndroid extends AppCompatActivity {
         TextView displaySubdir = findViewById(R.id.display_subdir);
         displaySubdir.setText(Arrays.toString(assetsIWant));
 
+        // đang tập dùng git
+
 
 
     }
